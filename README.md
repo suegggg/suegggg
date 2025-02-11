@@ -1,7 +1,7 @@
 # Hi there, I'm sue 👋
 
 - 🔭 I’m currently working on [Project Name]
-- 🌱 I’m currently learning [Skill/Language]
+- 🌱 I’m currently learning python、pytorch
 - 👯 I’m looking to collaborate on [Project Type]
 - 💬 Ask me about [Your Expertise]
 - 📫 How to reach me: [Your Email/Social Media]
@@ -10,8 +10,8 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, JavaScript, Java
-- **Frameworks**: React, Django, Flask
+- **Languages**: Python, JavaScript
+- **Frameworks**: Vue, Django, Flask
 - **Tools**: Git, Docker, VS Code
 
 ## 🚀 Projects
